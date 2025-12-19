@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+debug.log
+*.log
+
+# Cache
+.cache/
+
+# Arquivos temporários
+tmp/
+*.tmp
+
+# Arquivos do navegador (caso usados pelo Playwright)
+playwright-report/
+playwright/.cache/
+
+# Arquivos gerados pela automação
+SecaoParagrafos.txt
+
+# Configurações ou credenciais
+*.env
+.env.*

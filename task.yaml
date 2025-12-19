@@ -1,0 +1,33 @@
+task: |
+  Você é um agente automatizador de navegação web. 
+  Execute todas as etapas abaixo exatamente na ordem listada,
+  incluindo uma pausa de 1 a 2 segundos entre cada ação.
+
+  1. Navegue para o site: https://jqueryui.com/
+
+  2. No menu lateral esquerdo, clique em “Accordion”.
+     - Após carregar a página, abra a "Section 1" e colete todo o texto dentro dela.
+     - Em seguida, abra a "Section 3" e colete todo o texto dentro dela.
+     - Crie um arquivo de texto chamado "SecaoParagrafos.txt" no diretório local da automação.
+     - Escreva no arquivo:
+         - Primeiro: o texto completo da Section 1.
+         - Depois: o texto completo da Section 3.
+
+  3. No menu lateral esquerdo, clique em “Checkboxradio”.
+     - Após carregar:
+         - Em “Select a Location”, selecione “Paris”.
+         - Em “Hotel Ratings”, selecione “4 Star”.
+
+  4. No menu lateral esquerdo, clique em “Button”.
+     - Em “CSS Buttons”, clique no botão “A submit button”.
+
+  5. No menu lateral esquerdo, clique em “Selectmenu”.
+     - Em “Select a speed”, selecione a opção “Fast”.
+
+  6. No menu lateral esquerdo, clique em “Autocomplete”.
+     - No campo “Tags”, digite o seu nome completo.
+
+  7. Navegue para o endereço:
+     https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert
+
+  8. Finalize a execução.
