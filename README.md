@@ -53,5 +53,5 @@ python agenteweb.py
 ## Autor
 
 **Jabes Christian**  
-Automation Developer  
+Backend & Automation Developer  
 [LinkedIn](https://www.linkedin.com/in/jabes-christian/) • [GitHub](https://github.com/jabes-christian)
